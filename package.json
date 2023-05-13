@@ -1,0 +1,19 @@
+{
+  "name": "njsforum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiAngel/njsforum.git"
+  },
+  "author": "iAngel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiAngel/njsforum/issues"
+  },
+  "homepage": "https://github.com/iiAngel/njsforum#readme"
+}
