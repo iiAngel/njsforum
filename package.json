@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iiAngel/njsforum/issues"
   },
-  "homepage": "https://github.com/iiAngel/njsforum#readme"
+  "homepage": "https://github.com/iiAngel/njsforum#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
